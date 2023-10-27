@@ -1,5 +1,6 @@
 {
-    "name": "Codespace for Skills!",
+    // Name this configuration
+    "name": "Codespaces for Copilot X. Best AI Assistant",
     "customizations": {
         "vscode": {
             "extensions": [
